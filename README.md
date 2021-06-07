@@ -1,6 +1,4 @@
-# Data-Science-Business-Analytics
-
-Prediction using Supervised ML
+#Prediction using Supervised ML
 
 (Level - Beginner)
 
